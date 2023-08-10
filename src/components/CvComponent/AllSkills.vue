@@ -32,7 +32,7 @@
             Languages:
             <v-list-item>
                 <v-list-item-content>
-                    Telugu (Native), Hindi (fluent), English (C1), German (B2)
+                   Languages
                 </v-list-item-content>
             </v-list-item>
         </v-list-item-group>
