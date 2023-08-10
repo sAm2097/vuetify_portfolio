@@ -4,7 +4,7 @@
     <v-card-title>
       
         <v-icon class="mr-2">fa-solid fa-building-columns</v-icon>
-      <span class="text-subtitle-1"> Master's in Automotive Software Engineering</span>
+      <span class="text-subtitle-1"> Engineering</span>
       <v-btn icon @click="isExpanded = !isExpanded" class="ml-6" size="x-small">
         <v-icon>{{
           isExpanded ? "fas fa-chevron-up" : "fas fa-chevron-down"
@@ -21,7 +21,7 @@
                 <v-icon class="mr-2">fa fa-location-dot</v-icon>
               </v-col>
               <v-col cols="10">
-                <span>Chemnitz University of Technology, 09111 Chemnitz</span>
+                <span> University </span>
               </v-col>
             </v-row>
           </v-cols>
@@ -32,7 +32,7 @@
                 <v-icon class="mr-2" :size="iconSize">fas fa-calendar</v-icon>
               </v-col>
               <v-col cols="10">
-                <span class="info">October 2019 - August 2022</span>
+                <span class="info">October  - August </span>
               </v-col>
             </v-row>
           </v-cols>
@@ -43,7 +43,7 @@
             Focused Modules:
             <v-list-item>
               <v-list-item-content>
-                Automotive Software Technology 
+                 Software Technology 
               </v-list-item-content>
             </v-list-item>
             <v-list-item>
@@ -53,7 +53,7 @@
             </v-list-item>
             <v-list-item>
               <v-list-item-content>
-                Real-time and Communication Systems
+                 Communication Systems
               </v-list-item-content>
             </v-list-item>
             <v-list-item>
@@ -61,18 +61,8 @@
                 Embedded Systems
               </v-list-item-content>
             </v-list-item>
-            Learned about:
-            <v-list-item>
-              <v-list-item-content>
-                Real-time operating systems 
-              </v-list-item-content>
-            </v-list-item>
-            <v-list-item>
-              <v-list-item-content>
-                Communication protocols
-              </v-list-item-content>
-            </v-list-item>
-            <v-list-item>
+            
+             <v-list-item>
               <v-list-item-content>
                 Software architectures
               </v-list-item-content>
@@ -103,7 +93,7 @@
                 <v-icon class="mr-2">fa fa-location-dot</v-icon>
               </v-col>
               <v-col cols="10">
-                <span>Malla Reddy Engineering College, Hyderabad, India</span>
+                <span> Engineering College,  India</span>
               </v-col>
             </v-row>
           </v-cols>
@@ -114,7 +104,7 @@
                 <v-icon class="mr-2" :size="iconSize">fas fa-calendar</v-icon>
               </v-col>
               <v-col cols="10">
-                <span class="info">September 2015 - April 2019</span>
+                <span class="info">September  - April </span>
               </v-col>
             </v-row>
           </v-cols>
