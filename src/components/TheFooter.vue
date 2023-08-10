@@ -2,7 +2,7 @@
     <v-footer>
       <v-card elevation="0" rounded="0" width="100%" class="bg-grey text-center">
         <v-card-text>
-          <a href="https://www.linkedin.com/in/sumanth-anugandula/" target="_blank" rel="noopener noreferrer">
+          <a href="#" target="_blank" rel="noopener noreferrer">
             <v-btn class="mx-4" icon="fa-brands fa-linkedin fa-beat" variant="plain" :color="iconColor.linkedin" ></v-btn>
           </a>
           
@@ -10,11 +10,11 @@
             <v-btn class="mx-4" icon="fa-brands fa-github fa-flip" variant="plain" :color="iconColor.github"></v-btn>
           </a>
           
-          <a href="https://www.instagram.com/sam_anugandula/" target="_blank" rel="noopener noreferrer">
+          <a href="#" target="_blank" rel="noopener noreferrer">
             <v-btn class="mx-4" icon="fa-brands fa-square-instagram fa-bounce" variant="plain" :color="iconColor.instagram"></v-btn>
           </a>
           
-          <a href="https://www.facebook.com/sAm.anugandula/" target="_blank" rel="noopener noreferrer">
+          <a href="#" target="_blank" rel="noopener noreferrer">
             <v-btn class="mx-4" icon="fa-brands fa-square-facebook fa-shake" variant="plain" :color="iconColor.facebook"></v-btn>
           </a>
         </v-card-text>
