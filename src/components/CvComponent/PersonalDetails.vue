@@ -9,7 +9,7 @@
                 <v-icon class="mr-2">fas fa-user</v-icon>
               </v-col>
               <v-col cols="10">
-                <span> Sumanth Anugandula</span>
+                <span> Name</span>
               </v-col>
             </v-row>
           </v-col>
@@ -19,7 +19,7 @@
                 <v-icon class="mr-2">fas fa-envelope</v-icon>
               </v-col>
               <v-col cols="10">
-                <span>sumanth.anugandula97@gmail.com</span>
+                <span>example@gmail.com</span>
               </v-col>
             </v-row>
           </v-col>
@@ -29,7 +29,7 @@
                 <v-icon class="mr-2">fas fa-phone</v-icon>
               </v-col>
               <v-col cols="10">
-                <span> +49 178 9806278</span>
+                <span> +49 xxx xxx xxxx</span>
               </v-col>
             </v-row>
           </v-col>
@@ -39,7 +39,7 @@
                     <v-icon class="mr-2">fa fa-location-dot</v-icon>
                 </v-col>
                 <v-col cols="10">
-                    <span>74394-Hessigeim, Germany</span>
+                    <span>Location</span>
                 </v-col>
             </v-row>
           </v-col>
@@ -49,7 +49,7 @@
                     <v-icon class="mr-2">fa fa-cake-candles</v-icon>
                 </v-col>
                 <v-col cols="10">
-                    <span>20.12.1997, India</span>
+                    <span>DOB</span>
                 </v-col>
             </v-row>
           </v-col>
